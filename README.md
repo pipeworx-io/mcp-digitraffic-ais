@@ -2,6 +2,8 @@
 
 Live vessel positions in Finnish and Baltic waters, from Fintraffic's AIS receivers. Keyless.
 
+Part of [Pipeworx](https://pipeworx.io) — an MCP gateway connecting AI agents to 1394+ live data sources.
+
 ## Tools
 
 - `ais_vessels_near(...)` — vessels within a radius of a point, with position, speed, course, navigational status and type.
@@ -63,7 +65,7 @@ The gateway picks the right tool and fills the arguments automatically.
 
 ## More
 
-- [All tools and guides](https://github.com/pipeworx-io/examples)
+- [Docs and guides](https://pipeworx.io/docs)
 - [pipeworx.io](https://pipeworx.io)
 
 ## License
